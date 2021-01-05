@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          this is the updated text in change-link branch
         </a>
       </header>
     </div>
